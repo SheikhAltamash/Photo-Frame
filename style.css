@@ -60,11 +60,9 @@ a{
     border-radius: 10px !important;
     margin-top: 3%;
 }
-i{ position: absolute;
-    left:-3%;
-    font-size: 1.3rem !important;
-}
-h1{
-position: relative;
-left:-3% !important;
+i{position: absolute;
+   left:30px;
+   top:22px;
+   font-size: 1.5rem !important;
+   color: white;
 }
