@@ -61,8 +61,13 @@ a{
     margin-top: 3%;
 }
 i{position: absolute;
-   left:30px;
+   left:25px;
    top:22px;
-   font-size: 1.5rem !important;
+   font-size: 1.4rem !important;
    color: white;
 }
+
+h1{
+position: relative;
+top: 2px;
+} 
